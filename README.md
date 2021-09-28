@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+hello humans 
+Myself Riya , i love writing,reading and doing gardening. 
